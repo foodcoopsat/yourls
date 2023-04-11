@@ -12,7 +12,7 @@ if ($_SERVER['REQUEST_URI'] !== '/') {
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <link rel="canonical" href="https://fcoop.at">
-  <title>fcoop.at</title>
+  <title>Services für FoodCoops</title>
   <meta name="description" content="Services für österreichische FoodCoops">
   <style type="text/css">
     html,
@@ -85,23 +85,25 @@ if ($_SERVER['REQUEST_URI'] !== '/') {
       <h2>Services für österreichische FoodCoops</h2>
     </header>
     <main>
-      <p>Die <strong>Arbeitgruppe Infrastruktur</strong> innerhalb der <strong>IG FoodCoops</strong> betreibt mehrere Services.
+      <p>Die <strong>Arbeitsgruppe Infrastruktur</strong> innerhalb der <strong>IG FoodCoops</strong> betreibt mehrere Services.
         Diese können von <strong>allen</strong> österreichischen FoodCoops genutzt werden, damit sich nicht jede FoodCoop selber darum kümmern muss.
-        Mehr Informationen über die IG FoodCoops und deren Arbeitgruppen gibt es unter <a href="https://foodcoops.at">foodcoops.at</a>.
-        Dort finden sich auch Informationen über die Beteiligungsmöglichket für interessierte Personen.
+        Mehr Informationen über die IG FoodCoops und deren Arbeitsgruppen gibt es unter <a href="https://foodcoops.at" target="_blank">foodcoops.at</a>.
+        Dort finden sich auch Informationen über die Beteiligungsmöglichkeiten für interessierte Personen.
       </p>
       <h3>Zu den Services</h3>
       <p>
       <ul>
-        <li><a href="https://tools.foodcoops.at/pads/">Etherpad</a>Kollaborativer Texteditor (Piratpad)</li>
-        <li><a href="https://calc.foodcoops.at">EtherCalc</a>Kollaborative Tabellenverarbeitung</li>
-        <li><a href="https://fcoop.at/admin/">YOURLS</a>URL Shortener (bit.ly)</li>
-        <li><a href="https://tools.foodcoops.at/polls/">BitPoll</a>Terminfindung (Doodle)</li>
-        <li><a href="https://cloud.foodcoops.at">Nextcloud</a>Online Speicherplatz (Dropbox)</li>
-        <li><a href="https://meet.foodcoops.at">Jitsi</a>Online Videkonferenz</li>
-        <li><a href="https://mail.foodcoops.at">Roundcube</a>Webmail-Zugang</li>
-        <li><a href="https://forum.foodcoops.at">Discourse</a>Verntzungsforum</li>
-        <li><a href="https://app.foodcoops.at/austria/">Foodsoft</a></li>
+        <li><a href="https://tools.foodcoops.at/pads/" target="_blank">Etherpad</a>Kollaborativer Texteditor (wie Piratepad)</li>
+        <li><a href="https://calc.foodcoops.at" target="_blank">EtherCalc</a>Kollaborative Tabellenverarbeitung</li>
+        <li><a href="https://fcoop.at/admin/" target="_blank">YOURLS</a>URL Shortener (wie bit.ly)</li>
+        <li><a href="https://tools.foodcoops.at/polls/" target="_blank">BitPoll</a>Terminfindung & Umfrage (wie Doodle)</li>
+        <li><a href="https://cloud.foodcoops.at" target="_blank">Nextcloud</a>Online Speicherplatz (wie Dropbox), Kalender & Videokonferenz</li>
+        <li><a href="https://meet.foodcoops.at" target="_blank">Jitsi</a>Online Videokonferenz</li>
+        <li><a href="https://mail.foodcoops.at" target="_blank">Roundcube</a>Webmail-Zugang</li>
+        <li><a href="https://forum.foodcoops.at" target="_blank">Discourse</a>Vernetzungsforum</li>
+        <li><a href="https://app.foodcoops.at/austria/" target="_blank">Foodsoft Austria</a>IG-Foodsoft für FoodCoop-übergreifende Bestellungen & Mitgliedsbeiträge</li>
+        <li><a href="https://app.foodcoops.at/demo/" target="_blank">Demo-Foodsoft</a>Demo-Instanz der Foodsoft zum Ausprobieren</li>
+        <li><a href="https://docs.foodcoops.net/de/home" target="_blank">Foodsoft-Dokumentation</a>Zum Nachlesen von Foodsoft-Features</li>
       </ul>
       </p>
     </main>
