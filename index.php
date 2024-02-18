@@ -98,7 +98,6 @@ if ($_SERVER['REQUEST_URI'] !== '/') {
         <li><a href="https://fcoop.at/admin/" target="_blank">YOURLS</a>URL Shortener (wie bit.ly)</li>
         <li><a href="https://tools.foodcoops.at/polls/" target="_blank">BitPoll</a>Terminfindung & Umfrage (wie Doodle)</li>
         <li><a href="https://cloud.foodcoops.at" target="_blank">Nextcloud</a>Online Speicherplatz (wie Dropbox), Kalender & Videokonferenz</li>
-        <li><a href="https://meet.foodcoops.at" target="_blank">Jitsi</a>Online Videokonferenz</li>
         <li><a href="https://mail.foodcoops.at" target="_blank">Roundcube</a>Webmail-Zugang</li>
         <li><a href="https://forum.foodcoops.at" target="_blank">Discourse</a>Vernetzungsforum</li>
         <li><a href="https://app.foodcoops.at/austria/" target="_blank">Foodsoft Austria</a>IG-Foodsoft für FoodCoop-übergreifende Bestellungen & Mitgliedsbeiträge</li>
